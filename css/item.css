@@ -134,13 +134,13 @@ body {
 }
 
 .item-content-end .flex-end .left-end {
-  background-image: url(/img/slide1.jpg);
+  background-image: url(img/slide1.jpg);
   padding: 60px;
   width: 50%;
 }
 
 .item-content-end .flex-end .right-end {
-  background-image: url(/img/content/look.jpg);
+  background-image: url(img/content/look.jpg);
   padding: 60px;
   width: 50%;
 }
