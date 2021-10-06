@@ -6,7 +6,7 @@
 }
 
 .content__top {
-  background-image: url(img/bgr-membership.jpg);
+  background-image: url(../img/bgr-membership.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position-x: center;
