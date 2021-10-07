@@ -9,7 +9,10 @@ function openSearch () {
 function openMenu () {
     var menu = document.getElementById ('openMenu')
     menu.classList.toggle ('menu-open')
+    var times = document.getElementById ('node')
+    times.classList.toggle ('fa-times')
 }
+
 function slide() {
     $('.owl-carousel').owlCarousel({
         loop:true,
